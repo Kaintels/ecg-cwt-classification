@@ -15,7 +15,8 @@
 - pandas >= 1.1.0
 - matplotlib >= 3.3.0
 - pytorch >= 1.6.0+cu101
-- nni >= 1.8
+- tensorboard
+- hpbandster
 - Pywavelet >= 1.1.1
 
 
