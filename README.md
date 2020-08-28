@@ -15,15 +15,13 @@
 - pandas >= 1.1.0
 - matplotlib >= 3.3.0
 - pytorch >= 1.6.0+cu101
-- hpbandster >= 0.7.4
-- librosa >= 0.8.0
+- nni >= 1.8
+- Pywavelet >= 1.1.1
 
 
 ## How to use
 
 1. download MIT-BIH DB using ```data_download.sh``` (If you don't have dataset)
-2. run ```save_image.py``` (If you want STFT image of each subject)
-3. run ```main.py```
 
 ## Contributors
 - [Seungwoo Han](https://github.com/Kaintels)
