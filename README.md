@@ -1,4 +1,4 @@
-# ECG Continous wavelet transform classification
+# ECG classification using continous wavelet transform 
 
 ## Table of Contents
 
