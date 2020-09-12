@@ -24,7 +24,7 @@
 
 ## How to use
 
-1. download MIT-BIH DB using ```data_download.bat``` (If you don't have dataset)
+1. download ECG5000 DB using ```python main.py --data_download True```(If you don't have dataset)
 
 ## Contributors
 - [Seungwoo Han](https://github.com/Kaintels)
